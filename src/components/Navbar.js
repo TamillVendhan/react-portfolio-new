@@ -106,7 +106,7 @@ function NavBar() {
 
             <Nav.Item className="fork-btn">
               <a target="_blank"
-                href="https://drive.google.com/file/d/10UWPvCt16t_5nNBedtyveI8cCHx2Qayr/view"
+                href="https://drive.google.com/file/d/14nxgQWKRuHT-AjQlJamCilAsXJWOTx93/view"
                 className="fork-btn-inner nav-link" rel="noreferrer"
               >
                 <CgFileDocument style={{ marginBottom: "2px" }} /> Resume
